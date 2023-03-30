@@ -1,0 +1,3 @@
+The project requires requests module:
+
+pip install requests
